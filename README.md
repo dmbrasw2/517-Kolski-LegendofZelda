@@ -4,6 +4,13 @@ Docs as code practice #1
 
 ## My Favorite LoZ games
 
+My favorite LoZ games are:
+
+1. Ocarina of Time
+2. Majora's Mask
+3. Breath of the Wild
+4. Twilight Princess
+
 ### Ocarina of Time
 
 [Releaseed for the Nintendo 64 in 1998](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
