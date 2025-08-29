@@ -2,6 +2,8 @@
 
 Docs as code practice #1
 
+![The Legen of Zelda](images/Zelda_2017.svg.png)
+
 ## My Favorite LoZ games
 
 My favorite LoZ games are:
@@ -17,7 +19,7 @@ My favorite LoZ games are:
 
 - My first Legend of Zelda game!
 - I used to play on my brother's completed file and just run around on Epona. I treated it like an open world game.
-- I've beaten the game myself multiple times.
+- I've played and beaten the game multiple times.
 
 ### Majora's Mask
 
